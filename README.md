@@ -17,8 +17,8 @@ console.log("Hej Verden")
 * Add in .gitignore **_node_**
 
 1. Select the **New folder** in __Visual Studio Code__ to start a new. 
-2. _save_ click "sissors" and press the + 
-3. commit staged 
+2. To **_save_** click "sissors" and press the + 
+3. commit staged and comment
 4. select the 3 dots 
 __select__ _push_
 
